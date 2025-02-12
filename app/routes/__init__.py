@@ -1,0 +1,1 @@
+from .patients import router as patient_router

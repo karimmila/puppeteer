@@ -39,7 +39,7 @@ This is a FastAPI-based patient registration application that allows users to re
 3. **Build and Run the application with docker**
 
    ```
-   docker-compose up --build
+   docker compose up --build
    ```
 
 4. **Access the FastAPI Documentation**
